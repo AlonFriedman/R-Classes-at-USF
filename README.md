@@ -4,8 +4,7 @@ Contributors
 
 Alon Friedman, University of South Florida 
 Zach Beasley, University of South Florida
-sec_design
-Citation
+
 
 Friedman, A., Beasley, Z.J. “Teaching R with Peer Review and a New Rubric.” UseR! 2020.
 
