@@ -1,8 +1,7 @@
 # Student Peer Review in R Courses Analysis via Python code
 
 ## Description
-
-This folder contains two sub folders. The first folder is called "src" and the second folder is called "data". 
+The folder contains three subfolders. Among the three folders, the first is titled "src", the second is titled "data", and the third is titled "figures". The first folder contains our python code. In the second folder, you will find our data score, and in the last folder, you will find the figures that we analyzed.
 
 ## License
 
