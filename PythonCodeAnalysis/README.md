@@ -1,6 +1,4 @@
-# Project Title
-
-Student Peer Review in R Courses Analysis via Python code
+# Student Peer Review in R Courses Analysis via Python code
 
 ## Description
 
