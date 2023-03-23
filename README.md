@@ -14,6 +14,6 @@ This presentation is based on a new rubric developed to enhance student engageme
  
 Overall, we wanted to discover how students reacted after receiving a peer review evaluation coupled with a numeric grade. The survey conducted was primarily qualitative and highlighted that students found our rubric useful for understanding both how to develop and how to review other packages. Future work will include developing our rubric into an R package and discussing its generalizability to other R courses..
 
-Usage and Modification
 
-To utilize the rubric, comment out components not needed for your peer review and compile with LaTeX.
+
+
