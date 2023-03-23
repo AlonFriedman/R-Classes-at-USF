@@ -1,12 +1,10 @@
-A General Rubric for Peer Review in Open source R Courses -- 2020
+“Teaching R with Peer Review and a New Rubric.” UseR! 2020.
 
 Contributors
 
 * Alon Friedman, University of South Florida 
 * Zach Beasley, University of South Florida
 
-
-“Teaching R with Peer Review and a New Rubric.” UseR! 2020.
 
 Abstract
 
