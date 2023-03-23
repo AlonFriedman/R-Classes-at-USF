@@ -6,32 +6,6 @@ Student Peer Review in R Courses Analysis via Python code
 
 This folder contains two sub folders. The first folder is called "src" and the second folder is called "data". 
 
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-
-
-### Executing program
-
-
-
-
-
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
 ## License
 
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
